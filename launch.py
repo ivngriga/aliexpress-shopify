@@ -1,0 +1,6 @@
+import GUI_main_menu
+import GUI_product_browse
+import GUI_product_download
+import GUI_product_edit
+
+GUI_main_menu.startMainMenu()
