@@ -2,7 +2,7 @@
 
 ### Disclaimer
 
-This tool was written by 15 year old me. It is riddled with bugs and dubious technical decisions. Also it has a buggy UI. Use it at your own risk.
+This tool was written by a much younger me. It is riddled with bugs and dubious technical decisions.
 
 ### Purpose
 
